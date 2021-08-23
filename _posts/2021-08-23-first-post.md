@@ -14,4 +14,28 @@ date : 2021-08-23
 last_modified_at : 2021-08-23
 ---
 
-hello
+hello <br> 안녕하세요.
+
+- 새 문단
+  - 앞으로
+  - 잘 부탁드립니다
+
+## 파이썬 기본
+
+'''python
+print("Hello, World!")
+'''
+
+'''python
+for i in range(10):
+    print(i)
+'''
+
+이전에 정리해둔 블로그..
+<https://cooding99.tistory.com/>
+
+[제 티스토리 블로그입니당](https://cooding99.tistory.com/)
+
+![image][https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/1200px-Lower_Manhattan_skyline_-_June_2017.jpg]
+언제나 그리운 NYC <3...흑흑
+
