@@ -7,7 +7,7 @@ layout : post
 
 ---
 
-## 파이썬 archive
+## code archive
 
 내가 기억하려고 만드는 파이썬 코드들!!
 
