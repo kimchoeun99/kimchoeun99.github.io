@@ -9,10 +9,9 @@ layout : post
 
 ## code archive
 
-내가 기억하려고 만드는 파이썬 코드들!!
+기억해야 할 코드들
 
-
-### list comprehension
+## list comprehension
 
 ```python
 >>> [n for n in range(1, 10 + 1) if n % 2 == 0]
