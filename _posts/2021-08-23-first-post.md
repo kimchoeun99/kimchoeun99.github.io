@@ -36,6 +36,3 @@ for i in range(10):
 
 [제 티스토리 블로그입니당](https://cooding99.tistory.com/)
 
-![image][https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/1200px-Lower_Manhattan_skyline_-_June_2017.jpg]
-언제나 그리운 NYC <3...흑흑
-
