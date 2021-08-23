@@ -13,10 +13,11 @@ layout : post
 
 
 ### list comprehension
+
 ```python
 >>> [n for n in range(1, 10 + 1) if n % 2 == 0]
 [2, 4, 6, 8, 10]
 ```
 
-[^________^](https://cooding99.tistory.com/)
+[티스토리 블로그](https://cooding99.tistory.com/)
 
