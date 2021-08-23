@@ -7,7 +7,6 @@ layout : post
 
 ---
 
-# python
 ## 파이썬 기본
 
 hello <br> 안녕하세요.
