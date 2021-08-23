@@ -14,13 +14,15 @@ date : 2021-08-23
 last_modified_at : 2021-08-23
 ---
 
+# python
+## 파이썬 기본
+
 hello <br> 안녕하세요.
 
 - ^______^
   - 앞으로
   - 잘 부탁드립니다
 
-## 파이썬 기본
 
 '''python
 print("Hello, World!")
