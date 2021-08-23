@@ -7,22 +7,16 @@ layout : post
 
 ---
 
-## 파이썬 기초
+## 파이썬 archive
 
-hello <br> 안녕하세요.
+내가 기억하려고 만드는 파이썬 코드들!!
 
-- ^______^
-  - 앞으로
-  - 잘 부탁드립니다
+^______^
 
-
+### list comprehension
 ```python
-print("Hello, World!")
-```
-
-```python 
-for i in range(10):  
-    print(i)
+>>> [n for n in range(1, 10+1) if n%2==0]
+[2, 6, 10, 14, 18]
 ```
 
 [제 티스토리 블로그입니당](https://cooding99.tistory.com/)
