@@ -24,14 +24,14 @@ hello <br> 안녕하세요.
   - 잘 부탁드립니다
 
 
-'''python. 
+```python
 print("Hello, World!")
-'''
+```
 
-'''python. 
+```python 
 for i in range(10):  
     print(i)
-'''
+```
 
 이전에 정리해둔 블로그..
 <https://cooding99.tistory.com/>
