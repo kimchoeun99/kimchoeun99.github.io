@@ -25,8 +25,5 @@ for i in range(10):
     print(i)
 ```
 
-이전에 정리해둔 블로그..
-<https://cooding99.tistory.com/>
-
 [제 티스토리 블로그입니당](https://cooding99.tistory.com/)
 
