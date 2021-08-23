@@ -11,7 +11,6 @@ layout : post
 
 내가 기억하려고 만드는 파이썬 코드들!!
 
-^______^
 
 ### list comprehension
 ```python
@@ -19,5 +18,5 @@ layout : post
 [2, 4, 6, 8, 10]
 ```
 
-[제 티스토리 블로그입니당](https://cooding99.tistory.com/)
+[^________^](https://cooding99.tistory.com/)
 
