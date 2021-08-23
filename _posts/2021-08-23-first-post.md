@@ -1,5 +1,5 @@
 ---
-title : "첫 포스팅"
+title : "Python"
 author : kimchoeun
 date : 2021-08-23
 category : Python
@@ -7,7 +7,7 @@ layout : post
 
 ---
 
-## 파이썬 기본
+## 파이썬 기초
 
 hello <br> 안녕하세요.
 
